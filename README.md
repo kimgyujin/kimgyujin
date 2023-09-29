@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snrnsidy)](https://solved.ac/snrnsidy/)
+
 [![CodeForces Profile](https://cf.leed.at?id=viterbi)](https://codeforces.com/profile/viterbi)
